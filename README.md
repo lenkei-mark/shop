@@ -8,10 +8,8 @@ You can add and remove products from the shop's offer.
 
 You set the name and the price of the product.
 
+A kosárhoz lehet termékeket adni és onnan törölni.
 
-
-A kosárhoz lehet termékeket hozzáadni és onnan törölni.
-
-A bolt kínálatához hozzá lehet adni és törölni is lehet termékeket.
+A bolt kínálatához termékeket lehet adni és törölni
 
 Az új termékek nevét és árát a felhasználó állítja be.
