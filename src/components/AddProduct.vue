@@ -38,4 +38,10 @@ export default {
 
 <style scoped>
 
+div{
+    background-color: #F4B400;
+    color: #EDF2E5;
+    padding-bottom:10px;
+}
+
 </style>

@@ -23,4 +23,9 @@ export default {
 
 <style scoped>
 
+div{
+    background-color:#4285F4;
+    color: #ECEAEA;
+}
+
 </style>

@@ -1,8 +1,7 @@
 <template>
   <div id="app">
     <Products v-bind:products="products" v-on:add-to-cart="addToCart" v-on:remove-from-products="removeFromProducts"/>
-    <Cart v-bind:cart="cart" v-on:remove-from-cart="removeFromCart"/>
-    <h3>Ár: {{price}}.- Ft</h3>
+    <Cart v-bind:cart="cart" v-bind:price="price" v-on:remove-from-cart="removeFromCart"/>
     <AddProduct v-on:add-product="addProduct"/>
   </div>
 </template>
@@ -72,4 +71,26 @@ export default {
 </script>
 
 <style>
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  text-align: center;
+  width: 50%;
+  margin:auto;
+}
+
+button, input[type=submit]{
+  background: #0F3F4B;
+  border: none;
+  position: relative;
+  color: #fbfbfb;
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+  text-align: left;
+  text-indent: 5px;
+  cursor: pointer;
+}
 </style>
