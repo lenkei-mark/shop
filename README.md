@@ -10,6 +10,6 @@ You set the name and the price of the product.
 
 A kosárhoz lehet termékeket adni és onnan törölni.
 
-A bolt kínálatához termékeket lehet adni és törölni
+A bolt kínálatához új termékeket lehet adni és törölni
 
 Az új termékek nevét és árát a felhasználó állítja be.
