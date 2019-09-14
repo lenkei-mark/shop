@@ -1,4 +1,4 @@
-# Weboldal https://lenkeimark-shop.netlify.com/
+Weboldal https://lenkeimark-shop.netlify.com/
 
 # Shop with Vue.js / Bolt Vue.js-szel
 These are the source files for my shop made with Vue.js.
